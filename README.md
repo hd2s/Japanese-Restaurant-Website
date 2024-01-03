@@ -1,7 +1,7 @@
 <div>
   <br />
     <a href="" target="_blank">
-      <img src="" alt="Project Screenshot">
+      <img src="https://github.com/hd2s/Japanese-Restaurant-Website/blob/main/screenshot.png" alt="Project Screenshot">
     </a>  
   <br />
 
