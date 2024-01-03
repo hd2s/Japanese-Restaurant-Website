@@ -2,7 +2,7 @@
   <br />
     <a href="" target="_blank">
       <img src="" alt="Project Banner">
-    </a>
+    </a> 
   <br />
 
   <div>
