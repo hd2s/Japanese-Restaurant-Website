@@ -1,7 +1,7 @@
 <div>
   <br />
     <a href="" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="" alt="Project Screenshot">
     </a>  
   <br />
 
