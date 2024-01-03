@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <br />
     <a href="" target="_blank">
       <img src="" alt="Project Banner">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
 
-  <h3 align="center">Tokyo Bites Restaurant Website</h3>
+  <h3>Tokyo Bites Restaurant Website</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
