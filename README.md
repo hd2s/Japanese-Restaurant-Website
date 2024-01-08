@@ -8,6 +8,8 @@
 
   <h3>Tokyo Bites Restaurant Website</h3>
 
+  Project Status -> Complete
+
 ## <a name="table">Table of Contents</a>
 
 1. [Introduction](#introduction)
