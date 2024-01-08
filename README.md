@@ -5,22 +5,18 @@
     </a>  
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-HTML_5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html5" />
-    <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
-  </div>
 
   <h3>Tokyo Bites Restaurant Website</h3>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Quick Start](#quick-start)
+5. [Snippets](#snippets)
+6. [Links](#links)
+7. [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -36,21 +32,21 @@ A Japanese Restaurant website showcasing popular food, trending sushi, and drink
 
 ## <a name="features">🔋 Features</a>
 
-👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
+➡️ **CSS Variable Implementation**: Employs CSS variables systematically to ensure a consistent and easily adjustable styling paradigm is upheld throughout the entirety of the project.
 
-👉 **Importing CSS Files**: Import CSS files into others, promoting modularity and organization in styling.
+➡️ **CSS File Importation**: Implements the importation of CSS files into others, fostering modularity and organizational efficiency in styling practices.
 
-👉 **Flex and Position Properties**: Use of flex and position properties in CSS to create responsive and well-structured layouts.
+➡️ **Utilization of Flex and Position Properties**: Applies flex and position properties within CSS to construct responsive and well-structured layouts, optimizing the user interface.
 
-👉 **Rendering HTML through JavaScript**: Rendering HTML through JavaScript using reusable functions, enhancing code efficiency.
+➡️ **Dynamic HTML Rendering with JavaScript**: Implements the dynamic rendering of HTML through JavaScript, leveraging reusable functions to enhance code efficiency and maintainability.
 
-👉 **Smooth Animations**: Smooth and subtle animations to enhance the overall user experience, focusing on fluid transitions.
+➡️ **Refined Animation Techniques**: Incorporates smooth and nuanced animations to elevate the overall user experience, prioritizing fluid transitions for a polished interface.
 
-👉 **BEM Method**: Follow the Block Element Modifier (BEM) methodology for naming classes, promoting a clear and maintainable structure.
+➡️ **Adherence to BEM Methodology**: Adheres to the Block Element Modifier (BEM) methodology for class naming, fostering a clear and maintainable code structure throughout the development process.
 
-👉 **Organized File and Folder Structure**: Maintain a well-organized file and folder structure for easy navigation and management of project assets.
+➡️ **Structured File and Folder Organization**: Establishes and maintains a well-organized file and folder structure to facilitate seamless navigation and efficient management of project assets.
 
-👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
+➡️ **Comprehensive Responsive Design**: Ensures complete responsiveness across all devices by employing responsive design techniques, including media queries and fluid layouts, to guarantee an optimal user experience.
 
 Includes,
 * Navigation Bar
@@ -71,13 +67,6 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
-cd project_html_css_website
-```
 
 **Installation**
 
