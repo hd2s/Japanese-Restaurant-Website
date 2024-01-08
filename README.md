@@ -19,18 +19,18 @@
 7. [More](#more)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 A Japanese Restaurant website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - HTML 5
 - CSS 3
 - Vite
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features of the website</a>
 
 ➡️ **CSS Variable Implementation**: Employs CSS variables systematically to ensure a consistent and easily adjustable styling paradigm is upheld throughout the entirety of the project.
 
@@ -56,7 +56,7 @@ Includes,
 * Newsletter Signup and Footer
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
